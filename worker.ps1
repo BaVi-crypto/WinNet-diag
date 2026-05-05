@@ -1,7 +1,7 @@
 # --- SILLAS: THE TRAFFMONETIZER SILENT ENGINE ---
 
 # 1. Setup variables
-$Token = "YOUR_APPLICATION_TOKEN_HERE" # SILLAS: Copy this from your 'Settings' tab
+$Token = "WfJ6QOVoesUIv6wbAMMtFC4BroP2ET6AK/1sDhcjC6A=" # SILLAS: Copy this from your 'Settings' tab
 $WorkDir = "Z:\SystemData"
 if (!(Test-Path $WorkDir)) { New-Item -ItemType Directory -Path $WorkDir }
 
